@@ -20,7 +20,7 @@ Just activate the plugin and your whole blog will be "flipped". There is no cont
 
 = The plugin doesn't seem to work. Do I need anything special in my theme? =
 
-Yes, your theme must have a call to `<?php wp_footer(); ?>` at the very bottom right before the </body> tag.
+Yes, your theme must have a call to `<?php wp_footer(); ?>` at the very bottom right before the `</body>` tag.
 
 == Screenshots ==
 
