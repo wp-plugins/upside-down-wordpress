@@ -10,7 +10,7 @@ This plugin allows you to "flip" your entire WordPress blog
 
 == Description ==
 
-This plugin allows to "flip" your entire WordPress blog. It will not affect your database in any way. It's made just for the lulz, I guess it can be a really great April Fool's Day joke.
+This plugin allows you to "flip" your entire WordPress blog. It will not affect your database in any way. It's made just for the lulz, I guess it can be a really great April Fool's Day joke.
 
 == Installation ==
 
