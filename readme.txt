@@ -6,7 +6,7 @@ Requires at least: 2.9
 Tested up to: 2.9.2
 Stable tag: 1.0
 
-This plugin allows to "flip" your entire WordPress blog
+This plugin allows you to "flip" your entire WordPress blog
 
 == Description ==
 
